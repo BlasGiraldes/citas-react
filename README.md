@@ -2,7 +2,6 @@ PLANIFICADOR DE GASTOS creado con React
 
 https://controldegastosblas.netlify.app/
 
-Preview:
 ![image](https://github.com/BlasGiraldes/citas-react/assets/81719352/b06bc983-7557-4214-8310-601c789869fc)
 
 ![image](https://github.com/BlasGiraldes/citas-react/assets/81719352/1c9f01f0-b8e7-47a0-840a-196b1d62b9ff)
